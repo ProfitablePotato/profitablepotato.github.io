@@ -21,7 +21,7 @@
 title: Orange Crush Robotics
 email: ocr3026@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I really wanna eat a burger. i am hungry
+  'I really wanna eat a burger. i am hungry'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
