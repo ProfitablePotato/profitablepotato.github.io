@@ -1,3 +1,3 @@
 layout: page
 title: "Old"
-permalink: /old-stuff
+permalink: /old-stuff/
